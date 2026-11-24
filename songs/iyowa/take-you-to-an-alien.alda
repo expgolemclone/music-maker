@@ -1,0 +1,115 @@
+# 異星にいこうね / いよわ feat. 星界: https://youtu.be/PubukElqUJw
+# Vocal lines: まきゅ, https://bowlroll.net/file/277149
+# Piano arrangement.
+
+piano "left":
+  (tempo 192) (midi-channel 1) (quant 92)
+  r1 |  (vol 45) o2 d4 o3 d4/f/a o2 a4 o3 d4/f/a |  o2 d4 o3 d4/f/a o2 a4 o3 d4/f/a |  o2 d4 o3 d4/f/a o2 a4 o3 d4/f/a |
+  o2 d4 o3 d4/f/a o2 a4 o3 d4/f/a |  o2 d4 o3 d4/f/a o2 a4 o3 d4/f/a |  o2 d4 o3 d4/f/a o2 a4 o3 d4/f/a |  o2 f4 o3 f4/a/>c o3 c4 f4/a/>c |
+  o2 a4 o3 a4/>c/e o3 e4 a4/>c/e |  o2 f4 o3 f4/a/>c o3 c4 f4/a/>c |  o2 d4 o3 d4/f/a o2 a4 o3 d4/f/a |  o2 d4 o3 d4/f/a o2 a4 o3 d4/f/a |
+  o2 d4 o3 d4/f/a o2 a4 o3 d4/f/a |  o2 f4 o3 f4/a/>c o3 c4 f4/a/>c |  o2 d4 o3 d4/f/a o2 a4 o3 d4/f/a |  o2 f4 o3 f4/a/>c o3 c4 f4/a/>c |
+  o2 a4 o3 a4/>c/e o3 e4 a4/>c/e |  o2 d4 o3 d4/f/a o2 a4 o3 d4/f/a |  o2 f4 o3 f4/a/>c o3 c4 f4/a/>c |  o2 d4 o3 d4/f/a o2 a4 o3 d4/f/a |
+  o2 f4 o3 f4/a/>c o3 c4 f4/a/>c |  o2 f4 o3 f4/a/>c o3 c4 f4/a/>c |  o2 f4 o3 f4/a/>c o3 c4 f4/a/>c |  o2 d4 o3 d4/f/a o2 a4 o3 d4/f/a |
+  o2 f4 o3 f4/a/>c o3 c4 f4/a/>c |  o2 d4 o3 d4/f/a o2 a4 o3 d4/f/a |  o2 g4 o3 g4/b/>d o3 d4 g4/b/>d |  o2 g4 o3 g4/b/>d o3 d4 g4/b/>d |
+  o2 g4 o3 g4/b/>d o3 d4 g4/b/>d |  o2 a4 o3 a4/>c/e o3 e4 a4/>c/e |  o2 g4 o3 g4/b/>d o3 d4 g4/b/>d |  o1 b4 o2 b4/>d/f+ o2 f+4 b4/>d/f+ |
+  o2 e4 o3 e4/g/b o2 b4 o3 e4/g/b |  o2 e4 o3 e4/g/b o2 b4 o3 e4/g/b |  o2 g4 o3 g4/b/>d o3 d4 g4/b/>d |  o2 g4 o3 g4/b/>d o3 d4 g4/b/>d |
+  o2 g4 o3 g4/b/>d o3 d4 g4/b/>d |  o2 a4 o3 a4/>c/e o3 e4 a4/>c/e |  o2 g4 o3 g4/b/>d o3 d4 g4/b/>d |  o1 b4 o2 b4/>d/f+ o2 f+4 b4/>d/f+ |
+  o2 e4 o3 e4/g/b o2 b4 o3 e4/g/b |  o2 d4 o3 d4/f/a o2 a4 o3 d4/f/a |  o2 d4 o3 d4/f/a o2 a4 o3 d4/f/a |  o2 d4 o3 d4/f/a o2 a4 o3 d4/f/a |
+  o2 d4 o3 d4/f/a o2 a4 o3 d4/f/a |  o2 d4 o3 d4/f/a o2 a4 o3 d4/f/a |  o2 g4 o3 g4/b/>d o3 d4 g4/b/>d |  o2 f4 o3 f4/a/>c o3 c4 f4/a/>c |
+  o2 a4 o3 a4/>c/e o3 e4 a4/>c/e |  o2 d4 o3 d4/f/a o2 a4 o3 d4/f/a |  o2 d4 o3 d4/f/a o2 a4 o3 d4/f/a |  o2 d4 o3 d4/f/a o2 a4 o3 d4/f/a |
+  o2 d4 o3 d4/f/a o2 a4 o3 d4/f/a |  o2 f4 o3 f4/a/>c o3 c4 f4/a/>c |  o2 d4 o3 d4/f/a o2 a4 o3 d4/f/a |  o2 f4 o3 f4/a/>c o3 c4 f4/a/>c |
+  o2 f4 o3 f4/a/>c o3 c4 f4/a/>c |  o2 d4 o3 d4/f/a o2 a4 o3 d4/f/a |  o2 d4 o3 d4/f/a o2 a4 o3 d4/f/a |  r1 |
+  r1 |  r1 |  r1 |  r1 |
+  r1 |  r1 |  o2 g4 o3 g4/b/>d o3 d4 g4/b/>d |  o2 g4 o3 g4/b/>d o3 d4 g4/b/>d |
+  o2 g4 o3 g4/b/>d o3 d4 g4/b/>d |  o2 a4 o3 a4/>c/e o3 e4 a4/>c/e |  o2 g4 o3 g4/b/>d o3 d4 g4/b/>d |  o1 b4 o2 b4/>d/f+ o2 f+4 b4/>d/f+ |
+  o2 g4 o3 g4/b/>d o3 d4 g4/b/>d |  o2 e4 o3 e4/g/b o2 b4 o3 e4/g/b |  o2 g4 o3 g4/b/>d o3 d4 g4/b/>d |  o2 g4 o3 g4/b/>d o3 d4 g4/b/>d |
+  o2 g4 o3 g4/b/>d o3 d4 g4/b/>d |  o2 a4 o3 a4/>c/e o3 e4 a4/>c/e |  o2 g4 o3 g4/b/>d o3 d4 g4/b/>d |  o1 b4 o2 b4/>d/f+ o2 f+4 b4/>d/f+ |
+  o2 g4 o3 g4/b/>d o3 d4 g4/b/>d |  o2 e4 o3 e4/g/b o2 b4 o3 e4/g/b |  r1 |  r1 |
+  r1 |  r1 |  r1 |  r1 |
+  r1 |  r1 |  r1 |  r1 |
+  r1 |  r1 |  r1 |  r1 |
+  r1 |  r1 |  r1 |  o2 f4 o3 f4/a/>c o3 c4 f4/a/>c |
+  o2 f4 o3 f4/a/>c o3 c4 f4/a/>c |  o2 d4 o3 d4/f/a o2 a4 o3 d4/f/a |  o2 d4 o3 d4/f/a o2 a4 o3 d4/f/a |  o2 f4 o3 f4/a/>c o3 c4 f4/a/>c |
+  o2 f4 o3 f4/a/>c o3 c4 f4/a/>c |  o2 d4 o3 d4/f/a o2 a4 o3 d4/f/a |  o2 d4 o3 d4/f/a o2 a4 o3 d4/f/a |  o2 d4 o3 d4/f/a o2 a4 o3 d4/f/a |
+  o2 g4 o3 g4/b/>d o3 d4 g4/b/>d |  o2 g4 o3 g4/b/>d o3 d4 g4/b/>d |  o2 g4 o3 g4/b/>d o3 d4 g4/b/>d |  o2 a4 o3 a4/>c/e o3 e4 a4/>c/e |
+  o2 g4 o3 g4/b/>d o3 d4 g4/b/>d |  o1 b4 o2 b4/>d/f+ o2 f+4 b4/>d/f+ |  o2 g4 o3 g4/b/>d o3 d4 g4/b/>d |  o2 e4 o3 e4/g/b o2 b4 o3 e4/g/b |
+  o2 g4 o3 g4/b/>d o3 d4 g4/b/>d |  o2 g4 o3 g4/b/>d o3 d4 g4/b/>d |  o2 g4 o3 g4/b/>d o3 d4 g4/b/>d |  o2 a4 o3 a4/>c/e o3 e4 a4/>c/e |
+  o2 g4 o3 g4/b/>d o3 d4 g4/b/>d |  o2 d4 o3 d4/f+/a o2 a4 o3 d4/f+/a |  o1 b4 o2 b4/>d/f+ o2 f+4 b4/>d/f+ |  o2 e4 o3 e4/g/b o2 b4 o3 e4/g/b |
+  o1 b4 o2 b4/>d+/f+ o2 f+4 b4/>d+/f+ |
+
+piano "right":
+  (tempo 192) (midi-channel 0) (quant 98)
+  r1 |  r4 (vol 74) o4 c8. r16 d16. d16 d16. d8~32 g16. |  o4 f4 d16. d16 c16. d8~32 c16. d16. d16 c16. |  o4 d8. o3 a16 o4 d4 d16 r8 d16 d8~32 g16. |
+  o4 f4 d16 r8 c16 d8~32 c16. d8~32 c16. |  o3 a8. f16 a4 o4 c16. r16 d16. d8~32 d16. |  o4 d4 c+16 c8. d8~32 e16. f8~32 g16. |  o4 a8. g+8~32 d+32 g+8 a8~32 g+16. a8~32 g+16. |
+  o5 c4. o4 a8 o5 d8. c+16 d8 d16 c+16 |  o5 d8~32 d16. o4 c4 o3 a16 r16. a16. a8 a128 r9~165 |  o4 e4 d16. d16. c16 d8. c16 d8. c16 |  o4 d8. o3 a+16 o4 d4 d16. d16 c16. d8~32 g16. |
+  o4 f8 f16 c16 d16. d16 c16. d8. c16 d8. c16 |  o3 a5~40~640 f+16 a8 r12~384 a16. r16 o4 d4 d16. |  o4 d4.~32 c+16. d8~32 e16. f8~32 e16. |  o4 a8. g+8. g+8 a8~32 g+16. a8~32 g+16. |
+  o5 c4.~16. o4 a32 o5 d8. c+16 d8. c+16 |  o5 d4 d8 g+16. r32 o3 g+8. a8. f8 |  o3 a16. a16. a8~32 r8~32 a16. a16. a8~32 r8~32 |  o3 a16. a16 a16. a16. a16 a16. a16. r16. d16. d16. r8 |
+  o3 a16. a16. a8 r8. a16. a16. a8~32 r8~32 |  o3 a16. a16 a16. a16. a16 a16. o4 d16. r16. c8~32 c16. r16 |  o3 a16. a16. a8~32 r16 a16. a8 a8~32 a8.. |
+  o3 a16. a16 a16. a16. a16 a16. a16. a16. d8 d8 r16 |  o3 a16. a16 a16. a16. a16 a16. a16. a16 a16. a16. a16 g+16. |  o3 a8. a16 a16 r8 g16 d4 d32 o4 c8~32 r16 |
+  o4 b4.~32 a16. b4 a8 r8 |  o4 b4. a16 a16 b8 b8 o5 d8~32 d16. |  o4 b8~32 b16. b4 b4 o5 c8~32 o4 b16. |  o4 a4. g4 f8 r4 |
+  o5 e4 d4 o4 b4 g8 f+8 |  o4 a8. a16 b8. b16 o5 d8. d16 b4 |  o5 a8~32 g16. o4 b4.. b16 o5 g4 |  o5 e4 c+16 r2~8. |
+  o4 b4~16. r16. a16 b4 a+8 r8 |  o4 b4~16. r16. a16 b8. b16 o5 d4 |  o4 b8 b8 b4 b4 o5 c8. o4 b16 |  o4 a4. g4 f+8 r4 |
+  o5 e4 d4 o4 b4 g8 f+8 |  o4 a8. a16 b8. b16 o5 d8. d16 b4 |  o5 a8~32 g16. o4 b4.. b16 o5 g4 |  o5 e8. d8 r8. o4 d16. d16 d16. d8~32 g16. |
+  o4 f4 d16. d16 c16. d8~32 c16. d16. d16 c16. |  o4 d8. o3 a16. o4 d8. r32 d16 r8 d16 d8~32 g16. |  o4 f4 d16 d16. c16. d8~32 c16. d8~32 c16. |  o3 a8. f16 r32 a8~32 r16 o4 c8~32 d8. f8~32 |
+  o4 f32 b16. a16 g8 d+32 r32 g4~32 f16. f8. f16 |  o4 a8. g+8. g+8 a8~32 g+16. a8~32 g+16. |  o5 c4~16 r16 o4 a8 o5 d8. c+16 d8 d16 c+16 |  o5 d8~32 o6 c16. r4 o3 a16. r16 a16. a16. b8~32 |
+  o4 c16. c16. d16 e4 d16. d16. c16 d8. c16 |  o4 d8. c16 d8.. o3 a+32 r32 o4 d8~32 r16 d8. d16 |  o4 d8. g16 f16. r8~32 d16. d16 c16. d8. c16 |  o4 d8~32 c16. o3 a8.. f16 r8.. a8~32 o4 d16. |
+  o4 d8~32 d16. d4.~32 r16. d8. e16 |  o4 f8. d16 a2 a8. g+16 |  o4 a8. g+16 o5 c2 d8. c+16 |  o5 d8. c+16 d2 o4 d8 f16 f32 r32 |
+  o4 c8 r8 d4~32 o3 a+8~32 r4~16 |  r1 |  r1 |  r1 |
+  r1 |  r1 |  r1 |  r1 |
+  r2 o4 b4 b4 |  o4 b16. r16. a16 b4~16 b16. a16. b8. o5 d16 |  o5 d8. r16 o4 b4 b4 b4 |  o5 c8~32 o4 b16. a4. g4 e8 |
+  r4 o5 e4 d4 o4 b4 |  o4 g8 f+8 a8. a16 b8. b16 o5 d8. d16 |  o5 b4 a8~32 g+16. o4 b4.. b16 |  o5 g4 e8.. o4 a16 r8. b4~32 |
+  o4 b4 b4.. a16 b8. a16 |  o4 b8. a16 b4.. a16 b8. b16 |  o5 d4 o4 b4 b4 b4 |  o5 c8. o4 b16 a4.~32 g4~16 f32 |
+  o4 f32 o5 e8.. e4 d4 o4 b8. b16 |  o4 g8. g16 a8. a16 b4 o5 d8. d16 |  o5 b8. b16 a8~32 g+16. r2 |  o5 g8. g16 e4 d16 r4.. |
+  r1 |  r1 |  r1 |  r1 |
+  r1 |  r1 |  r1 |  r1 |
+  r1 |  r1 |  r1 |  r1 |
+  r1 |  r1 |  r1 |  r1 |
+  r1 |  r4 o3 a16. a16. a8~32 r8~32 a16. a16. a16 |  o3 a16. r8~32 a16. a16 a16. a16. a16 a16. a16. r16. d16 |  o3 d32 d16. r8 a16. a16. a8~32 r8~32 a16. a16. a16 |
+  o3 a16. r8~32 a16. a16 a16. a16. a16 a16. o4 d16. d16. c16 |  o4 c16. c16. r16 o3 a16. a16. a8~32 r16 a16. a16. a8 a32 |  o3 a4 a16. a16 a16. a16. a16 a16. a16. a16. d16 |
+  o3 d16 d8 r16 a16. a16 a16. a16. a16 a16. a16. a16 a16. |  o3 a16. a16 g+16. a8. a16 a16 r8 g16 d4 |  o3 d16. r2.~8~32 |  r4 o4 b4~16 b16 a8 b4 |
+  o4 a+16. r8~32 b4.. a16 b8. o5 c16 |  o5 d4 o4 b4 b4 b8~32 b16. |  o5 c8. o4 b16 a4. g4 f+8 |  r4 o5 e4 d4 o4 b4 |
+  o4 g8 f+8 a8. a16 b8. b16 o5 d8. d16 |  o5 b4 a8~32 g+16. o4 b4.. b16 |  o5 g4 e4 d+16. r8~32 o4 b4 |  o4 b4 b4.. a16 b4 |
+  o4 a+8 r8 b4~16. b16. a16 b8. b16 |  o5 d8. o4 a16 b8~32 r16. b8~32 r16. b4 |  o5 c8. o4 b16 a4. g4 f+8 |  o5 c4 e4 d8 r8 o4 b4 |
+  o4 a8. g16 a8. a16 b4 o5 d8. d16 |  o5 b4 a4 g+16. r8~32 d4 |  o4 b4 o5 e8 r8 e16. e16 r16. o4 e4 |  o4 d+8.. r2.~32 |
+
+piano "duet":
+  (tempo 192) (midi-channel 2) (quant 96)
+  r1 |  r2 (vol 63) o3 a16./>f o3 a16/>f o3 a16./>f o3 a8~32/>f e16./b |  o4 d4/a o3 a16./>f o3 a16/>f o3 a16./>e o3 a8~32/>f o3 a16./>e o3 a16./>f o3 a16/>f o3 a16./>e |
+  o3 a8./>f r4~16 o3 a16/>f r8 o3 a16/>f o3 a8~32/>f e16./b |  o4 d4/a o3 a16/>f r8 o3 a16/>e o3 a8~32/>f o3 a16./>e o3 a8~32/>f o3 a16./>e |  o3 f8./>c r4~16 o3 a16./>e r16 o3 a16./>f o3 a8~32/>f o3 a16./>f |
+  o3 a4/>f o3 a16/>e r8. o3 a+8~32/>f c16./g d8~32/a e16./b |  o4 f8./>c o4 f8~32/b r32 f8/b f8~32/>c o4 f16./b f8~32/>c o4 f16./b |  o4 a4./>e o4 f8/>c o4 a8./>f o4 a16/>e o4 a8/>f o4 a16/>f o4 a16/>e |
+  o4 a8~32/>f r4~16. o3 f16/>c r16. o3 f16./>c o3 f8/>c o3 f128/>c r9~165 |  o4 d4/a o3 a16./>f o3 a16./>f o3 a16/>e o3 a8./>f o3 a16/>e o3 a8./>f o3 a16/>e |
+  o3 a8./>f r4~16 o3 b16./>f o3 b16/>f o3 a16./>e o3 b8~32/>f e16./b |  o4 d8/a d16/a o3 a16/>e o3 a16./>f o3 a16/>f o3 a16./>e o3 a8./>f o3 a16/>e o3 a8./>f o3 a16/>e |
+  o3 f5~40~640/>c r4~48~384 o3 f16./>c r16 o3 a4/>f o3 a16./>f |  o3 a4.~32/>f r16. o3 b8~32/>f c16./g d8~32/a c16./g |  o4 f8./>c o4 f8./b f8/b f8~32/>c o4 f16./b f8~32/>c o4 f16./b |
+  o4 a4.~16./>e r32 o4 a8./>f o4 a16/>e o4 a8./>f o4 a16/>e |  o4 a4/>f o4 a8/>f r8 o3 f8./b f8./>c r8 |  o3 f16. f16. r4~16 f16. f16. r4~16 |  o3 f16. f16 f16. f16. f16 f16. f16. r16. o2 b16. r8.. |
+  o3 f16. f16. r4~16 f16. f16. r4~16 |  o3 f16. f16 f16. f16. f16 f16. b16. r16. a8~32 r8~32 |  o3 f16. f16. r8.. f16. f8 r4. |  o3 f16. f16 f16. f16. f16 f16. f16. f16. o2 b8 r8. |
+  o3 f16. f16 f16. f16. f16 f16. f16. f16 f16. f16. f16 o2 g16./>f |  o2 a8./>f o2 a16/>f o2 a16/>f r8 o2 g16/>e o2 d4/a r4 |  o4 g4.~32/>d o4 f+16./>c o4 g4/>d r4 |
+  o4 g4./>d o4 f+16/>c o4 f+16/>c o4 g8/>d o4 g8/>d o4 b8~32/>f+ r16. |  o4 g8~32/>d r16. o4 g4/>d o4 g4/>d o4 a8~32/>e o4 g16./>d |  o4 f+4./>c o4 e4/b r4. |
+  o5 c4/g o4 b4/>f+ o4 g4/>d o4 e8/b r8 |  o4 f+8./>c o4 f+16/>c o4 g8./>d o4 g16/>d o4 b8./>f+ o4 b16/>f+ g4/>d |  o5 f+8~32/>c r2~32 o4 g16/>d e4/b |
+  o4 b4/>g r2. |  o4 g4~16./>d r16. o4 f+16/>c o4 g4/>d r4 |  o4 g4~16./>d r16. o4 f+16/>c o4 g8./>d o4 g16/>d o4 b4/>f+ |  o4 g8/>d r8 o4 g4/>d o4 g4/>d o4 a8./>e o4 g16/>d |
+  o4 f+4./>c o4 e4/b r4. |  o5 c4/g o4 b4/>f+ o4 g4/>d o4 e8/b r8 |  o4 f+8./>c o4 f+16/>c o4 g8./>d o4 g16/>d o4 b8./>f+ o4 b16/>f+ g4/>d |  o5 f+8~32/>c r2~32 o4 g16/>d e4/b |
+  o4 b8./>g r4~16 o3 a16./>f o3 a16/>f o3 a16./>f o3 a8~32/>f e16./b |  o4 d4/a o3 a16./>f o3 a16/>f o3 a16./>e o3 a8~32/>f o3 a16./>e o3 a16./>f o3 a16/>f o3 a16./>e |
+  o3 a8./>f r4~16 o3 a16/>f r8 o3 a16/>f o3 a8~32/>f e16./b |  o4 d4/a o3 a16/>f o3 a16./>f o3 a16./>e o3 a8~32/>f o3 a16./>e o3 a8~32/>f o3 a16./>e |
+  o3 f8./>c r4~16 o3 a8~32/>e o3 b8./>f d8~32/a |  o4 d32/a g16./>d o4 f16/>c o4 e8/b c32/g r32 e4~32/b d16./a d8./a d16/a |  o4 f8./>c o4 f8./b f8/b f8~32/>c o4 f16./b f8~32/>c o4 f16./b |
+  o4 a4~16/>e r16 o4 f8/>c o4 a8./>f o4 a16/>e o4 a8/>f o4 a16/>f o4 a16/>e |  o4 a8~32/>f r4~16. o3 f16./>c r16 o3 f16./>c o3 f16./>c o3 g8~32/>d |
+  o3 a+16./>e o3 a+16./>e o3 b16/>f d4/g o3 a16./>f o3 a16./>f o3 a16/>e o3 a8./>f o3 a16/>e |  o3 a8./>f o3 a16/>e o3 a8../>f r4~32 o3 b8./>f o3 b16/>f |
+  o3 b8./>f e16/b d16./a r8~32 o3 b16./>f o3 b16/>f o3 a16./>e o3 b8./>f o3 a16/>e |  o3 b8~32/>f o3 a16./>e o3 f8../>c r4~32 o3 f8~32/>c o3 b16./>f |
+  o3 b8~32/>f o3 b16./>f o3 b4.~32/>f r16. o3 b8./>f c16/g |  o4 d8./a o3 b16/>f f2/>c o4 f8./>c o4 f16/b |  o4 f8./>c o4 f16/b a2/>f o4 a8./>f o4 a16/>e |
+  o4 a8./>f o4 a16/>e o4 a2/>f o3 b8/>f d16/a d32/a r32 |  r4 o3 a4~32/>f r4.~16. |  r1 |  r1 |
+  r1 |  r1 |  r1 |  r1 |
+  r1 |  r2 o4 g4/>d o4 g4/>d |  o4 g16./>d r16. o4 f16/>c o4 g4~16/>d o4 g16./>d o4 f16./>c o4 g8./>d o4 b16/>f+ |  o4 b8./>f+ r16 o4 g4/>d o4 g4/>d o4 g4/>d |
+  o4 a8~32/>e o4 g16./>d o4 f+4./>c o4 e4/b r8 |  r4 o5 c4/g o4 b4/>f+ o4 g4/>d |  o4 e8/b r8 f+8./>c o4 f+16/>c o4 g8./>d o4 g16/>d o4 b8./>f+ o4 b16/>f+ |
+  o5 g4/>d o5 f+8~32/>c r2~32 o4 g16/>d |  o5 e4/b o4 b8../>g r2~32 |  r4 o4 g4../>d o4 f+16/>c o4 g8./>d o4 f+16/>c |  o4 g8./>d o4 f+16/>c o4 g4../>d o4 f+16/>c o4 g8./>d o4 g16/>d |
+  o4 b4/>f+ o4 g4/>d o4 g4/>d o4 g4/>d |  o4 a8./>e o4 g16/>d o4 f+4.~32/>c o4 e4~16/b r32 |  r4 o5 c4/g o4 b4/>f+ o4 g8./>d o4 g16/>d |  o4 e8./b e16/b f+8./>c o4 f+16/>c o4 g4/>d o4 b8./>f+ o4 b16/>f+ |
+  o5 g8./>d o5 g16/>d o5 f+8~32/>c r2~16. |  o5 e8./b e16/b o4 b4/>g r2 |  r1 |  r1 |
+  r1 |  r1 |  r1 |  r1 |
+  r1 |  r1 |  r1 |  r1 |
+  r1 |  r1 |  r1 |  r1 |
+  r1 |  r1 |  r1 |  r4 o3 f16. f16. r4~16 f16. f16. r16 |
+  r4 o3 f16. f16 f16. f16. f16 f16. f16. r16. o2 b16 |  o2 b32 r8.. o3 f16. f16. r4~16 f16. f16. r16 |  r4 o3 f16. f16 f16. f16. f16 f16. b16. b16. a16 |
+  o3 a16. r8~32 f16. f16. r8.. f16. f16. r8~32 |  r4 o3 f16. f16 f16. f16. f16 f16. f16. f16. o2 b16 |  o2 b16 r8. o3 f16. f16 f16. f16. f16 f16. f16. f16 f16. |
+  o3 f16. f16 o2 g16./>f o2 a8./>f o2 a16/>f o2 a16/>f r8 o2 g16/>e o2 d4/a |  r1 |  r4 o4 g4~16/>d o4 g16/>d o4 f+8/>c o4 g4/>d |  r4 o4 g4../>d o4 f+16/>c o4 g8./>d o4 a16/>e |
+  o4 b4/>f+ o4 g4/>d o4 g4/>d o4 g8~32/>d r16. |  o4 a8./>e o4 g16/>d o4 f+4./>c o4 e4/b r8 |  r4 o5 c4/g o4 b4/>f+ o4 g4/>d |  o4 e8/b r8 f+8./>c o4 f+16/>c o4 g8./>d o4 g16/>d o4 b8./>f+ o4 b16/>f+ |
+  o5 g4/>d o5 f+8~32/>c r2~32 o4 g16/>d |  o5 e4/b o4 b4/>g r2 |  r4 o4 g4../>d o4 f+16/>c o4 g4/>d |  r4 o4 g4~16./>d o4 g16./>d o4 f+16/>c o4 g8./>d o4 g16/>d |
+  o4 b8./>f+ o4 f+16/>c o4 g8~32/>d r16. o4 g8~32/>d r16. o4 g4/>d |  o4 a8./>e o4 g16/>d o4 f+4./>c o4 e4/b r8 |  r4 o5 c4/g o4 b8/>f+ r8 o4 g4/>d |
+  o4 f+8./>c o4 e16/b f+8./>c o4 f+16/>c o4 g4/>d o4 b8./>f+ o4 b16/>f+ |  o5 g4/>d o5 f+4/>c r4 o4 b4/>f+ |  o4 g4/>d c8/g r8 c16./g c16/g r16. o3 b4/>g |
+  r1 |

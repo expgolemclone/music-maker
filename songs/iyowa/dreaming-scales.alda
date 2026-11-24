@@ -1,0 +1,36 @@
+# ゆめみるうろこ / いよわ feat. 知声: https://youtu.be/7-2PUEl-7a4
+# Vocal lines: gray, https://bowlroll.net/file/313364
+# Piano arrangement.
+
+piano "left":
+  (tempo 120.5) (midi-channel 1) (quant 92)
+  r1 |  r1 |  r1 |  r1 |
+  r1 |  (vol 45) o2 e4 b4 o3 e4/g+/b o2 b4 |  o2 e4 b4 o3 e4/g+/b o2 b4 |  o2 e4 b4 o3 e4/g+/b o2 b4 |
+  o2 d4 a4 o3 d4/f+/a o2 a4 |  o2 e4 b4 o3 e4/g+/b o2 b4 |  o2 e4 b4 o3 e4/g+/b o2 b4 |  o2 f+4 o3 c+4 f+4/a/>c+ o3 c+4 |
+  o2 f+4 o3 c+4 f+4/a/>c+ o3 c+4 |  o2 e4 b4 o3 e4/g+/b o2 b4 |  r1 |  r1 |
+  r1 |  r1 |  r1 |  r1 |
+  o1 b4 o2 f+4 b4/>d+/f+ o2 f+4 |  o2 e4 b4 o3 e4/g+/b o2 b4 |  o2 e4 b4 o3 e4/g+/b o2 b4 |  o2 e4 b4 o3 e4/g+/b o2 b4 |
+  o2 a4 o3 e4 a4/>c+/e o3 e4 |  o2 e4 b4 o3 e4/g+/b o2 b4 |  o2 e4 b4 o3 e4/g+/b o2 b4 |  o2 f+4 o3 c+4 f+4/a+/>c+ o3 c+4 |
+  o2 f+4 o3 c+4 f+4/a+/>c+ o3 c+4 |  r1 |  o2 e4 b4 o3 e4/g+/b o2 b4 |  o2 e4 b4 o3 e4/g+/b o2 b4 |
+  o2 e4 b4 o3 e4/g+/b o2 b4 |  o2 d4 a4 o3 d4/f+/a o2 a4 |  o2 e4 b4 o3 e4/g+/b o2 b4 |  o2 e4 b4 o3 e4/g+/b o2 b4 |
+  o2 f+4 o3 c+4 f+4/a/>c+ o3 c+4 |  o2 f+4 o3 c+4 f+4/a/>c+ o3 c+4 |  o2 a4 o3 e4 a4/>c/e o3 e4 |  o2 f4 o3 c4 f4/a/>c o3 c4 |
+  o2 f4 o3 c4 f4/a/>c o3 c4 |  o2 c4 g4 o3 c4/d+/g o2 g4 |  o2 f4 o3 c4 f4/a/>c o3 c4 |  o2 f4 o3 c4 f4/a/>c o3 c4 |
+  o2 g4 o3 d4 g4/a+/>d o3 d4 |  o2 g4 o3 d4 g4/a+/>d o3 d4 |  o2 f4 o3 c4 f4/a/>c o3 c4 |
+
+piano "right":
+  (tempo 120.5) (midi-channel 0) (quant 98)
+  r1 |  r1 |  r1 |  r1 |
+  r1 |  (vol 74) o4 g+16 g+16 g+16 e16 g+16 a16 a+16 b4~16 r4 |  o4 g+16 g+16 g+16 e16 g+16 a16 a+16 b4~16 r4 |  o4 g+16 g+16 g+16 e16 g+16 a16 a+16 b16 r16 a16 a16 g+16 g+16 f+16 e16 d16 |
+  o4 d16 d16 f+16 g16 a16 b16 o5 c16 d16 d16 e16 d16 d24.. d24~96 c+8~96 r24~96 |  o4 g+16 g+16 g+16 e16 g+16 a16 a+16 b4~16 r4 |  o4 g+16 g+16 g+16 e16 g+16 a16 a+16 b8. b16 o5 c+16 o4 b16 a16 g+16 f+16 |
+  o4 f+16 f+16 f+16 f+16 f+16 f+16 f+16 e16 f+16 g+16 r16 f+8~96 r16.~48 f+16 |  r16 o4 f+16 f+16 f+16 f+16 f+16 f+16 e16 f+16 g+16 r16 f+16 f+16 e8. |
+  o4 e12.. r2.~12~48 |  r1 |  r1 |  r1 |
+  r1 |  r1 |  r1 |  r2. o3 b8 o4 c+16 d+16 |
+  o4 e16 e16 r8 o3 b8 r8 b16 b16 o4 c+16 d+16 e16.~48 r8~96 |  o4 e16 e16 f+16 a16 r16 g+16 f+16 e16 g+8 r8 o3 b16 b16 o4 c+16 d+16 |  o4 e16 e16 r8 o3 b8~96 r16.~48 b16 b16 o4 c+16 f+16 e8 r8 |
+  o4 e16 e16 f+16 a16 a16 g+16 f+16 r16 e12.. r12~48 e16 e16 f+16 e16 |  o4 g+16 g+16 g+8 g+8 e16 g+16 r16 g+16 r16 a16 g+6~96 r24.. |  o4 g+8 g+16 g+16 g+16. g+32 a16 b16 r16 a16 a16 g+16 f+8~96 r16.~48 |
+  o4 f+16 f+16 f+16 f+16 f+16 f+16 f+16 f+16 f+16 f+16 f+16 g+16 g+16 f+16 e16 f+16 |  o4 f+2. r4 |  r1 |  o4 g+16 g+16 g+16 e16 g+16 a16 a+16 b4~16 r4 |
+  o4 g+16 g+16 g+16 e16 g+16 a16 a+16 b4~16 r4 |  o4 g+16 g+16 g+16 e16 g+16 a16 a+16 b16 r16 a16 a16 g+16 r16 f+16 e16 d16 |  o4 d24.. d24~96 f+16 g16 a16 b16 o5 c16 d16 d16 e16 d16 d24.. d24~96 c+8~96 r24~96 |
+  o4 g+16 g+16 g+16 e16 g+16 a16 a+16 b4~16 r4 |  o4 g+16 g+16 g+16 e16 g+16 a16 a+16 b8. b16 o5 c+16 o4 b16 a16 g+16 f+16 |  o4 f+16 f+16 f+16 f+16 f+16 f+16 f+16 e16 f+16 g+16 g+24~96 r96 f+8 r8 f+16 |
+  o4 f+16 f+16 f+16 f+16 f+16 f+16 f+16 e16 f+16 g+16 r16 g16 r24.. f6~96 |  o4 a16 a16 a16 f16 a16 a+16 b16 o5 c4~16 r4 |  o4 a16 a16 a16 f16 a16 a+16 o5 d16 c4~16 r4 |
+  o4 a16 a16 a16 f16 a16 a+32 a+32 b16 o5 c16 r16 o4 a+16 r16 a8 g16 f16 d+16 |  o4 d+16 d+16 g16 g+16 a+16 o5 c16 c+16 d+16 r16 f16 d+16 d+16 r16 d8~96 r24~96 |
+  o4 a16 a16 a16 f16 a16 a+16 b16 o5 c4~16 r4 |  o4 a16 a16 a16 f16 a16 a+16 b16 o5 f8. c16 d16 c16 o4 a+16 a16 g16 |  r16 o4 g16 g16 g16 g16 g16 g16 f16 g16 a16 r16 g8 r8 g16 |
+  o4 g16 g16 g16 g16 g16 g16 g16 f16 g16 a16 r16 g16 r16 f8. |  o4 f12.. r2.~12~48 |

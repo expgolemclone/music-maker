@@ -1,0 +1,40 @@
+# ももいろの鍵 / いよわ feat. 初音ミク: https://youtu.be/sAUdWpemfGw
+# Score reference: 匿名M, https://flat.io/score/66c53b8639a89c1b71c888f7
+# Piano arrangement.
+
+piano "left":
+  (tempo 167) (midi-channel 1) (quant 92)
+  r1 |  (vol 57) o2 f+8 o3 c+8 f+4 o2 b8 o3 f+8 b4 |  o2 e8 b8 o3 e4 o2 d8 a8 o3 d4 |  o2 d+8 a+8 o3 d+4 o2 g+8 o3 d+8 g+4 |
+  o3 c+8 g+8 o4 c+4 o3 d8 a8 o4 d4 |  o2 f+8 o3 c+8 f+4 o2 b8 o3 f+8 b4 |  o2 e8 b8 o3 e4 o2 d8 a8 o3 d4 |  o2 d+4/>d+ r4 o2 g+4/>g+ r4 |
+  o3 c+8 g+8 o4 c+8 o3 g+8 c+8 g+8 o4 c+4 |  (tempo 241) (vol 40) o2 a8 o3 e8 a2 |  o2 b2./>b |  o2 e8 b8 o3 e2 |
+  o2 g+2/>g+ r4 |  (tempo 167) o2 a4/>a r4 o2 b4/>b r4 |  (vol 57) o3 c+8/>c+ r2.. |  o2 f+8 o3 c+8 f+4 o2 b8 o3 f+8 b4 |
+  o2 e8 b8 o3 e4 o2 d8 a8 o3 d4 |  o2 d+8 a+8 o3 d+4 o2 g+8 o3 d+8 g+4 |  o3 c+8 g+8 o4 c+4 o3 d8 a8 o4 d4 |  o2 f+8 o3 c+8 f+4 o2 b8 o3 f+8 b4 |
+  o2 e8 b8 o3 e4 o2 d8 a8 o3 d4 |  o2 d+8 a+8 o3 d+4 o2 g+8 o3 d+8 g+4 |  o3 c+8 g+8 o4 c+8 o3 g+8 c+8 g+8 o4 c+4 |  o2 a4/>a r4 o2 b8 o3 f+8 b4 |
+  o2 e8 b8 o3 e4 o2 d8 a8 o3 d4 |  o2 d+8 a+8 o3 d+4 o2 g+8 o3 d+8 g+4 |  o3 c+8 g+8 o4 c+4 o3 d8 a8 o4 d4 |  o2 f+8 o3 c+8 f+4 o2 b8 o3 f+8 b4 |
+  o2 e8 b8 o3 e4 o2 d8 a8 o3 d4 |  o2 d+8 a+8 o3 d+4 o2 g+8 o3 d+8 g+4 |  o3 c+8 g+8 o4 c+8 o3 g+8 c+8 g+8 o4 c+4 |  (vol 48) o2 a1/>a |
+  o2 e1/>e |  o2 f+1/>f+ |  o2 e4/>e o2 f+4/>f+ o2 g+4/>g+ o2 e4/>e |  o2 a6 o3 e6/a e6/a e6/a e6/a e6/a |
+  o2 e6 b6/>e o2 b6/>e o2 b6/>e o2 b6/>e o2 b6/>e |  o2 f+6 o3 c+6/f+ c+6/f+ c+8./f+ c+16/f+ c+8/f+ c+8/f+ |  o1 b8./>b o1 b8./>b o1 b8/>b o1 b8./>b o1 b8./>b o1 b8/>b |
+  (vol 65) o2 c4/>c o2 c8 o3 c8 o2 c8 o3 c8 o2 c8 o3 c8 |  o2 d8 o3 d8 o2 d8 o3 d8 o2 d8 o3 d8 o2 d8 o3 d8 |  o2 e8 o3 e8 o2 e8 o3 e8 o2 e8 o3 e8 o2 e8 o3 e8 |
+  o1 b8 o2 b8 o1 b8 o2 b8 o1 b8 o2 b8 o1 b8 o2 b8 |  (tempo 241) (vol 48) o2 a4 o3 e4/a e4/a |  o3 d4 a4/>d o3 a4/>d |  o2 g4 o3 d4/g d4/g |
+  o3 c4 g4/>c o3 g4/>c |  (tempo 167) o2 f+12 o3 c+12 f+3 o2 b12 o3 f+12 b3 |  o3 e8./>e o3 e8./>e o3 e8/>e o3 e8./>e o3 e8./>e o3 e8/>e |  o2 c4/>c o2 c8 o3 c8 o2 c8 o3 c8 o2 c8 o3 c8 |
+  o2 d8 o3 d8 o2 d8 o3 d8 o2 d8 o3 d8 o2 d8 o3 d8 |  o2 e8 o3 e8 o2 e8 o3 e8 o2 e8 o3 e8 o2 e8 o3 e8 |  o1 b8 o2 b8 o1 b8 o2 b8 o1 b8 o2 b8 o1 b8 o2 b8 |
+  (tempo 241) o2 a4 o3 e4/a e4/a |  o3 d4 a4/>d o3 a4/>d |  o2 g4 o3 d4/g d4/g |  o3 c4 g4/>c o3 g4/>c |
+  (tempo 167) o2 a12 o3 e12 a3 o2 b12 o3 f+12 b3 |  o3 e8./>e o3 e8./>e o3 e8/>e o3 e8./>e o3 e4~16/>e |  o3 e16/>e r2.~8. |
+
+piano "right":
+  (tempo 167) (midi-channel 0) (quant 96)
+  r2.. (vol 66) o5 f+16 g+16 |  o6 c+4 o5 b8 g+8 b4 r8 e16 f+16 |  o5 a4 g+8 f+8 g+4 r8 f+8 |  o5 g+4 o6 c+4 e4 d+8 o5 a8 |
+  o5 g+4 r4 f8 f+8 g+8 e8 |  o6 c+4 o5 b8 g+8 b4 r8 e8 |  o5 a4 g+8 f+8 g+4 r8 f+8 |  o5 g+4 o6 c+4 e4 d+8 c+8 |
+  o6 c+2 r4. c8 |  (tempo 241) (vol 46) o6 c+4 o5 a8 b8 o6 c+8 d+8 |  o6 e8 d+8 c+8 o5 b8 a8 g+8 |  o5 g+4 e8 f+8 g+8 a8 |
+  o5 b8 a8 g+8 f+8 e8 d+8 |  (tempo 167) o5 c+4 r4 e4 r4 |  (vol 66) o5 c+4 r4 o4 f8 f+8 g+8 e8 |  o5 c+4 o4 b8 g+8 b4 r8 e8 |
+  o4 a4 g+8 f+8 g+4 r8 f+8 |  o4 g+4 o5 c+4 e4 d+8 o4 a8 |  o4 g+4 r4 f8 f+8 g+8 e8 |  o5 c+4 o4 b8 g+8 b4 r8 e8 |
+  o4 a4 g+8 f+8 g+4 r8 f+8 |  o4 g+4 o5 c+4 e4 d+8 c+8 |  o5 c+2. r4 |  r4 o5 c+4 o4 b4 r8 e8 |
+  o4 a4 g+8 f+8 g+4 r8 f+8 |  o4 g+4 o5 c+4 e4 d+8 o4 a8 |  o4 g+4 r8 f8 f8 f+8 g+8 e8 |  o5 c+4 o4 b8 g+8 b4 r8 e8 |
+  o4 a4 g+8 f+8 g+4 r8 f+8 |  o4 g+4 o5 c+4 e4 d+8 c+8 |  o5 c+2. r4 |  (vol 56) o5 c+12 c+12 c+6 c+12 c+12 c+6 o4 b12 r4 |
+  o4 b12 b12 b12 b12 b12 b12 b6 g+6 r6 |  o4 a12 a12 a12 a6 a12 a4 a4 |  o4 g+4 a4 g+4 e4 |  o5 c+12 c+12 c+12 c+12 c+12 c+12 c+12 o4 b12 g+12 b4 |
+  o4 b12 b12 b12 b12 b12 b12 b6 g+6 r6 |  o4 a12 a12 a12 a12 a12 a12 a4 a4 |  o4 b4 o5 c4 o4 b4 a8 f+8 |  (vol 76) o4 g4 o5 a8 a8 a8 d8 d4 |
+  r4 o5 a8 a8 a8 d8 d4 |  r4 o5 a8 a8 a8 d8 d8 e8 |  o5 d4 c8 o4 b8 b4 r8 b16 o5 d16 |  (tempo 241) (vol 56) o5 e4 d4 e4 |
+  o5 d4 r4 o4 g8 a8 |  o5 c4 o4 b4 a4 |  o4 b4 r4. a8 |  (tempo 167) o4 b4 o5 e4 g4 f+8 e8 |
+  o5 e2 r4. d8 |  o5 e4 a8 a8 a8 d8 d4 |  r4 o5 a8 a8 a8 d8 d4 |  r4 o5 a8 a8 a8 d8 d8 e8 |
+  o5 d4 c8 o4 b8 b4 r8 b16 o5 c16 |  (tempo 241) o5 d8 e8 d4 e4 |  o5 d4 r4 o4 g8 a8 |  o5 c4 o4 b4 a4 |
+  o4 b4 o5 d4 e4 |  (tempo 167) o5 d4 e4 g4 f+8 e8 |  o5 e2 r4. d+8 |  o5 e8 r2.. |
