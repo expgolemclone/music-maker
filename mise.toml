@@ -1,0 +1,13 @@
+[tasks.play-all]
+description = "Play all Alda scores in songs"
+shell = "mise exec -- pwsh -NoProfile -Command"
+quiet = true
+raw = true
+run = """
+$ErrorActionPreference = 'Stop'
+$PSNativeCommandUseErrorActionPreference = $true
+foreach ($file in Get-ChildItem -Path songs -Filter *.alda -File -Recurse | Sort-Object FullName) {
+  Write-Host ([System.IO.Path]::GetRelativePath($PWD, $file.FullName))
+  alda play --wait -f $file.FullName
+}
+"""
