@@ -1,13 +1,38 @@
 [tasks.play-all]
-description = "Play all Alda scores in songs"
+description = "Play all Alda scores in songs one at a time, in path order"
 shell = "mise exec -- pwsh -NoProfile -Command"
 quiet = true
 raw = true
 run = """
 $ErrorActionPreference = 'Stop'
 $PSNativeCommandUseErrorActionPreference = $true
+function Get-AldaPlayer {
+  alda ps | ConvertFrom-Csv -Delimiter "`t" | Where-Object type -eq 'player'
+}
+
 foreach ($file in Get-ChildItem -Path songs -Filter *.alda -File -Recurse | Sort-Object FullName) {
+  $startup = $null
+  while (-not ($player = Get-AldaPlayer | Where-Object state -eq 'ready' | Select-Object -First 1)) {
+    if (-not $startup) {
+      # Unlike ps, a normal Alda command starts the background player pool.
+      alda version > $null
+      $startup = [Diagnostics.Stopwatch]::StartNew()
+    }
+    if ($startup.Elapsed.TotalSeconds -ge 30) {
+      throw 'Timed out waiting for an Alda player.'
+    }
+    Start-Sleep -Milliseconds 250
+  }
+
   Write-Host ([System.IO.Path]::GetRelativePath($PWD, $file.FullName))
-  alda play --wait -f $file.FullName
+  $process = Get-Process -Id $player.pid
+  alda play --player-id $player.id -f $file.FullName
+
+  # --wait can return early if the player is rewriting its state file.
+  while (-not (Get-AldaPlayer | Where-Object { $_.pid -eq $player.pid -and $_.state -eq 'finished' })) {
+    if ($process.WaitForExit(500)) {
+      throw "Alda player $($player.id) exited before reporting completion of $($file.Name)."
+    }
+  }
 }
 """
